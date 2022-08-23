@@ -1,0 +1,130 @@
+*
+{
+margin: 0px;
+padding: 0px;
+}
+body
+{
+    background-color:#CEE5D0;
+}
+.header
+{
+    background-color: #115173;
+}
+.logoArea
+{
+    width: 145px;
+}
+.schoolName
+{
+    width: 340px;
+}
+.logoArea h4
+{
+    margin-left: 47px;
+    margin-top: -8px;
+}
+.sname
+{
+    position: relative;
+    top: -15px;
+    left: 55px;
+}
+.brand-name
+{ 
+    padding: 0px;
+    margin-right: 120px;
+}
+.menu
+{
+    background-color:#F24A72;
+    
+}
+.pt-2 {
+    padding-top: 0px!important;
+    margin-bottom: -6px;
+}
+.footer
+{
+    background-color: rgb(17,81,115);
+}
+.fa-instagram,.fa-facebook-square,.fa-twitter
+{
+    cursor: pointer;
+}
+.dropdown:hover .dropdown-menu
+{
+    display: block;
+}
+.dropdown-menu
+{
+    background-color: #F24A72;
+    
+}
+.dropdown-item
+{
+    color: white;
+    font-size: 16px;
+}
+.bannerimg
+{
+height: 570px;
+}
+ .welcome
+ {
+font-family: 'Lobster', cursive;
+ }
+ .intro
+ {
+    padding: auto; 
+    border: solid palevioletred 2px;
+     border-radius: 10px;
+     background-color: #E7D9EA;
+ }
+ .image_gallery {
+    height: 200px;
+    width: 200px;
+    margin-left: 10px;
+  }
+
+  .gallery_banner {
+    height: 450px;
+  }
+
+  .gallery_content1 {
+    position: relative;
+    top: -50px;
+    left: 20px;
+    font-family: sans-serif;
+  }
+  .cardmain:hover
+  {
+  height: 450px;
+  }
+
+  .cardimg
+  {
+    height: 200px;
+  }
+  .card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, .12), 0 4px 8px rgba(0, 0, 0, .06)
+}
+.card-body
+{
+    height: 100px;
+}
+.mentors
+{
+    background-color: #F190B7;
+}
+/* registraion student css */
+.Pdetails ,.Academicdetails
+{
+    border: 0px;
+    border-radius: 10px;
+}
+.btnfees
+{
+    margin-left: 2px;
+}
